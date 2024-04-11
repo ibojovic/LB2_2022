@@ -1,1 +1,1 @@
-# LB2_2022
+# Protein function and subcellular localization prediction
