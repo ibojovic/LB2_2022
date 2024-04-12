@@ -208,8 +208,8 @@ Trained models are saved/loaded to/from  compressed files using the pickle and g
 * Average values are accompanied by standard errors, defined as:
   SE = σ / √n
 where:
- - σ is the standard deviation
- - n is the number of samples (5 in this case)
+    - σ is the standard deviation
+    - n is the number of samples (5 in this case)
 
 ## Qualitative evaluation of results ##
 Using the benchmarking data analyses:
